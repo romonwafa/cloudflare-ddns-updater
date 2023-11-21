@@ -1,0 +1,1 @@
+0 * * * * /bin/bash /home/$USER/cloudflare-ddns-updater/cloudflare-template.sh >> ./logs.log 2>&1
